@@ -1,7 +1,13 @@
 <div align="center">
 
 <a href="https://www.livexo.fun/">
-  <img src="https://raw.githubusercontent.com/insaneboy543210-star/All-In-One-IPTV-LiveXo-Hub/main/assets/banner.svg" alt="LIVEXO IPTV PRO – Free Web IPTV Player, PC Sports, Cricket, BD Live TV &amp; 700+ Channels" width="100%">
+  <img src="https://raw.githubusercontent.com/insaneboy543210-star/All-In-One-IPTV-LiveXo-Hub/main/assets/animated-banner.svg" alt="LIVEXO IPTV PRO – Free Web IPTV Player, PC Sports, Cricket, BD Live TV &amp; 700+ Channels" width="100%">
+</a>
+
+<br>
+
+<a href="https://www.livexo.fun/">
+  <img src="https://raw.githubusercontent.com/insaneboy543210-star/All-In-One-IPTV-LiveXo-Hub/main/assets/animated-live-ticker.svg" alt="Live Matches &amp; Fixtures Ticker" width="100%">
 </a>
 
 <br><br>
@@ -19,6 +25,7 @@
 [![LiveXo IPTV](https://img.shields.io/badge/LIVEXO%20IPTV-PRO%20HUB-0284c7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.livexo.fun/)
 [![Web IPTV Player](https://img.shields.io/badge/WEB%20IPTV-PLAYER-2563eb?style=for-the-badge&logo=hotjar&logoColor=white)](https://www.livexo.fun/)
 [![PC Sports & Cricket](https://img.shields.io/badge/PC%20SPORTS-CRICKET%20%7C%20FOOTBALL-10b981?style=for-the-badge&logo=espn&logoColor=white)](https://www.livexo.fun/)
+[![SPORZFY & CricfyTV Alternative](https://img.shields.io/badge/ALTERNATIVE-SPORZFY%20%7C%20CRICFYTV-d946ef?style=for-the-badge&logo=target&logoColor=white)](https://www.livexo.fun/)
 [![700+ Live Channels](https://img.shields.io/badge/CHANNELS-700%2B%20FREE-f59e0b?style=for-the-badge&logo=youtube&logoColor=white)](https://www.livexo.fun/)
 
 <br>
@@ -45,9 +52,23 @@ Watch **700+ authentic live TV channels**, live cricket matches (BPL, IPL, ICC t
 
 ---
 
+## 📸 LiveXo Web Interface & Features Showcase
+
+Experience the sleek, modern cyberpunk UI engineered for ultra-fast streaming and zero-lag navigation:
+
+| 🏠 4K Marquee Home Player | 🏆 Live Match Center & Fixtures |
+| :---: | :---: |
+| <a href="https://www.livexo.fun/"><img src="https://raw.githubusercontent.com/insaneboy543210-star/All-In-One-IPTV-LiveXo-Hub/main/assets/screenshots/livexo-home-hero.jpg" alt="LiveXo Home Hero - 4K Live Broadcast & Marquee Matches" width="100%"></a><br><sub><b>4K HDR Marquee Player</b> with Dual DRM Decryption & Instant Multi-Server Failover</sub> | <a href="https://www.livexo.fun/"><img src="https://raw.githubusercontent.com/insaneboy543210-star/All-In-One-IPTV-LiveXo-Hub/main/assets/screenshots/livexo-match-center.jpg" alt="LiveXo Live Events Fixture Center - Cricket, Football, Racing" width="100%"></a><br><sub><b>Live Events Match Center</b> with real-time scoreboards, live status & auto timezone converter</sub> |
+
+| 📺 Special Sports & FanCode Pro+ | 🌐 All Channels & Sony Sports Suite |
+| :---: | :---: |
+| <a href="https://www.livexo.fun/"><img src="https://raw.githubusercontent.com/insaneboy543210-star/All-In-One-IPTV-LiveXo-Hub/main/assets/screenshots/livexo-special-sports.jpg" alt="Special Sports Streams - Willow Cricket & FanCode Pro" width="100%"></a><br><sub><b>Special Sports Hub</b>: 166+ channels including Willow HD, FanCode Pro+, FOX Sports & SonyLiv Worldwide</sub> | <a href="https://www.livexo.fun/"><img src="https://raw.githubusercontent.com/insaneboy543210-star/All-In-One-IPTV-LiveXo-Hub/main/assets/screenshots/livexo-live-channels.jpg" alt="All Channels Grid - 500+ Worldwide Channels, Sony & BDIX" width="100%"></a><br><sub><b>500+ Live Worldwide Channels</b>: Full Sony Ten 1-5 suite, BDIX, Star, Zee & Indian regional feeds</sub> |
+
+---
+
 ## 🏆 Key Features at a Glance
 
-- 🏏 **Free PC Sports & Cricket Streaming:** Watch live cricket, football, tennis, and motorsports in crystal clear 1080p 60fps HD. Direct alternative to *SPORZFY*, *CricfyTV*, *CricHD*, and *Touchcric*.
+- 🏏 **Free PC Sports & Cricket Streaming:** Watch live cricket, football, tennis, and motorsports in crystal clear 1080p 60fps HD. Direct browser alternative to *SPORZFY*, *CricfyTV*, *CricHD*, and *Touchcric*.
 - 📺 **700+ Free Live Channels:** Comprehensive selection of Bangladesh BD live TV, Indian Hindi & Bengali channels, Kolkata entertainment, Kids TV, and international channels.
 - 🔄 **Redundant Multi-Server Failover:** Every major sports event and channel features multiple independent high-speed CDN servers (Live Xo Server HD, Server 1, Server 2) with instant automatic failover.
 - ⚡ **Auto-Healing Stream Engine:** Channel tokens and live feeds update and self-heal automatically upstream across cloud workers with zero downtime.
