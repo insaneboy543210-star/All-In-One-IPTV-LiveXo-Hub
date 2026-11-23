@@ -47,7 +47,7 @@ Watch **700+ authentic live TV channels**, live cricket matches (BPL, IPL, ICC t
 
 ## 🏆 Key Features at a Glance
 
-- 🏏 **Free PC Sports & Cricket Streaming:** Watch live cricket, football, tennis, and motorsports in crystal clear 1080p 60fps HD. Direct alternative to *Spordify*, *Crickify*, *CricHD*, and *Touchcric*.
+- 🏏 **Free PC Sports & Cricket Streaming:** Watch live cricket, football, tennis, and motorsports in crystal clear 1080p 60fps HD. Direct alternative to *SPORZFY*, *CricfyTV*, *CricHD*, and *Touchcric*.
 - 📺 **700+ Free Live Channels:** Comprehensive selection of Bangladesh BD live TV, Indian Hindi & Bengali channels, Kolkata entertainment, Kids TV, and international channels.
 - 🔄 **Redundant Multi-Server Failover:** Every major sports event and channel features multiple independent high-speed CDN servers (Live Xo Server HD, Server 1, Server 2) with instant automatic failover.
 - ⚡ **Auto-Healing Stream Engine:** Channel tokens and live feeds update and self-heal automatically upstream across cloud workers with zero downtime.
@@ -80,15 +80,15 @@ Watch **700+ authentic live TV channels**, live cricket matches (BPL, IPL, ICC t
 
 ## 📊 LiveXo vs Other Streaming Alternatives
 
-| Feature / Capability | ⚡ LIVEXO IPTV PRO | 🔴 Limon IPTV Pro | 🟢 Spordify / Crickify | 🟠 CricHD / Touchcric |
-| :--- | :---: | :---: | :---: | :---: |
-| **Total Live Channels** | **700+ Channels** | 169 Channels | Sports Only (~10) | Sports Only (~15) |
-| **Live Sports Match Center** | ✅ **Full 24/7 Schedule** | ❌ Limited | ✅ Sports only | ⚠️ Broken links |
-| **Multi-Server Failover** | ✅ **3 to 6 Redundant CDNs**| ⚠️ Single Worker | ❌ Single link | ❌ High buffering |
-| **BD Live TV & Indian Feeds** | ✅ **Comprehensive HD** | ✅ Good | ❌ None | ❌ None |
-| **Ad-Free Clean Experience** | ✅ **Protected Sandbox** | ⚠️ Popups | ❌ Heavy Redirects | ❌ Aggressive Ads |
-| **Desktop PC Fullscreen Mode** | ✅ **Native Switching** | ✅ Yes | ❌ Basic | ❌ Cluttered |
-| **Official Telegram Support** | ✅ [@livexo2026](https://t.me/livexo2026) | ✅ Channel | ❌ None | ❌ None |
+| Feature / Capability | ⚡ LIVEXO IPTV PRO | 🟢 SPORZFY / CricfyTV | 🟠 CricHD / Touchcric |
+| :--- | :---: | :---: | :---: |
+| **Total Live Channels** | **700+ Channels** | Sports Only (~15) | Sports Only (~15) |
+| **Live Sports Match Center** | ✅ **Full 24/7 Schedule** | ⚠️ Basic schedule | ⚠️ Broken links |
+| **Multi-Server Failover** | ✅ **3 to 6 Redundant CDNs**| ❌ Single stream | ❌ High buffering |
+| **BD Live TV & Indian Feeds** | ✅ **Comprehensive HD** | ❌ None | ❌ None |
+| **Ad-Free Clean Experience** | ✅ **Protected Sandbox** | ❌ Heavy Redirects | ❌ Aggressive Ads |
+| **Desktop PC Fullscreen Mode** | ✅ **Native Switching** | ❌ Basic | ❌ Cluttered |
+| **Official Telegram Support** | ✅ [@livexo2026](https://t.me/livexo2026) | ❌ None | ❌ None |
 
 ---
 
@@ -139,10 +139,10 @@ To assist users and researchers in finding authentic web IPTV and sports streami
 <br>
 
 **Top English Keywords:**  
-`IPTV` · `PC Sports` · `Free Sports` · `TV Channels` · `Spordify` · `Crickify` · `LiveXo` · `LiveXo IPTV` · `LiveXo Pro` · `Web IPTV Player` · `Free IPTV WebApp` · `BD Live TV` · `Bangladesh IPTV` · `BDIX IPTV Player` · `India Live TV` · `Star Jalsha Live` · `Zee Bangla Live` · `Sony Sports Ten 1 HD` · `T Sports Live` · `GTV Live Cricket` · `BPL Live Streaming` · `IPL Live Streaming 2026` · `Cricket Live Stream Free` · `Football Live Stream Free` · `Premier League Live Stream` · `Champions League Free Stream` · `CricHD Alternative` · `Touchcric Alternative` · `Limon IPTV Alternative` · `M3U8 Web Player` · `HLS Stream Player`
+`IPTV` · `PC Sports` · `Free Sports` · `TV Channels` · `SPORZFY` · `Sporzfy` · `CricfyTV` · `Cricfy TV` · `LiveXo` · `LiveXo IPTV` · `LiveXo Pro` · `Web IPTV Player` · `Free IPTV WebApp` · `BD Live TV` · `Bangladesh IPTV` · `BDIX IPTV Player` · `India Live TV` · `Star Jalsha Live` · `Zee Bangla Live` · `Sony Sports Ten 1 HD` · `T Sports Live` · `GTV Live Cricket` · `BPL Live Streaming` · `IPL Live Streaming 2026` · `Cricket Live Stream Free` · `Football Live Stream Free` · `Premier League Live Stream` · `Champions League Free Stream` · `SPORZFY Alternative` · `CricfyTV Alternative` · `CricHD Alternative` · `Touchcric Alternative` · `M3U8 Web Player` · `HLS Stream Player`
 
 **বাংলা ও বাংলিশ কিওয়ার্ড (Bangla & Banglish):**  
-`আইপিটিভি` · `ফ্রি স্পোর্টস` · `টিভি চ্যানেল` · `বিডি লাইভ টিভি` · `লাইভ ক্রিকেট খেলা` · `টি স্পোর্টস লাইভ` · `জিটিভি লাইভ` · `লাইভ এক্সও` · `অনলাইন টিভি` · `বাংলদেশি টিভি চ্যানেল লাইভ` · `স্টার জলসা লাইভ` · `জি বাংলা লাইভ` · `সনি স্পোর্টস লাইভ` · `bd live tv` · `bdix iptv` · `bangla tv online` · `live cricket match today` · `free sports stream pc` · `crickify app alternative` · `spordify live tv`
+`আইপিটিভি` · `ফ্রি স্পোর্টস` · `টিভি চ্যানেল` · `স্পোর্জফাই` · `ক্রিকফাই টিভি` · `বিডি লাইভ টিভি` · `লাইভ ক্রিকেট খেলা` · `টি স্পোর্টস লাইভ` · `জিটিভি লাইভ` · `লাইভ এক্সও` · `অনলাইন টিভি` · `বাংলদেশি টিভি চ্যানেল লাইভ` · `স্টার জলসা লাইভ` · `জি বাংলা লাইভ` · `সনি স্পোর্টস লাইভ` · `bd live tv` · `bdix iptv` · `bangla tv online` · `live cricket match today` · `free sports stream pc` · `cricfytv app alternative` · `sporzfy live tv`
 
 </details>
 
