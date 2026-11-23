@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 54" width="260" height="54">
+  <defs>
+    <linearGradient id="tgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#229ED9"/>
+      <stop offset="100%" stop-color="#0088cc"/>
+    </linearGradient>
+    <filter id="tgShadow" x="-10%" y="-10%" width="120%" height="130%">
+      <feDropShadow dx="0" dy="4" stdDeviation="4" flood-color="#0088cc" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+
+  <rect width="260" height="54" rx="12" fill="url(#tgGrad)" filter="url(#tgShadow)"/>
+  <rect width="258" height="52" x="1" y="1" rx="11" fill="none" stroke="#7dd3fc" stroke-width="1.2" stroke-opacity="0.4"/>
+
+  <!-- Telegram Paper Plane Icon -->
+  <g transform="translate(18, 13)">
+    <circle cx="14" cy="14" r="14" fill="#ffffff" fill-opacity="0.2"/>
+    <path d="M 7 14 L 20 8 L 17 21 L 13 16 L 10 18 Z M 13 16 L 18 10" fill="#ffffff"/>
+  </g>
+
+  <!-- Button Texts -->
+  <text x="56" y="21" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="9" font-weight="800" fill="#bae6fd" letter-spacing="1">COMMUNITY &amp; CHANNELS</text>
+  <text x="56" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#ffffff" letter-spacing="0.2">Join Telegram Channel</text>
+
+  <!-- Arrow -->
+  <path d="M 232 27 L 224 21 M 232 27 L 224 33 M 232 27 L 218 27" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
